@@ -11,7 +11,7 @@
     <property name="target" value="1.6"/>
     <property name="source" value="1.6"/>
     <path id="JUnit 3.libraryclasspath">
-        <pathelement location="${ECLIPSE_HOME}/plugins/org.junit_4.11.0.v201303080030/junit.jar"/>
+        <pathelement location="lib/junit.jar"/>
     </path>
     <path id="CoffeeMaker_JUnit.classpath">
         <pathelement location="bin"/>
